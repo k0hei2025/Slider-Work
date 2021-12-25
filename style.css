@@ -176,6 +176,7 @@
   .right-corousal {
     top: 12%;
     font-size: 12px;
+    height: 3rem;
   }
 
   .topic-heading {
@@ -205,6 +206,7 @@
   .topic-heading {
     position: relative;
     top: 8rem;
+    font-size: 20px;
   }
 
   .prize img,
